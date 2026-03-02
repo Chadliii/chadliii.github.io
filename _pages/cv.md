@@ -1,10 +1,10 @@
 ---
-title: "CV"
+title: 
 permalink: /cv/
 layout: single
 ---
 
-- [Download my CV (PDF)]({{ "/assets/files/CV.pdf" | relative_url }}){: .btn .btn--primary .btn--large }
+Download my [CV]({{ "/assets/files/CV.pdf" | relative_url }})
 
 <iframe
   src='{{ "/assets/files/CV.pdf" | relative_url }}'
