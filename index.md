@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my website! This is Xinyu Li.
+This is Xinyu Li, welcome to my website! 
 
 I am a 3rd-year PhD student in Economics at The Ohio State University. 
 
