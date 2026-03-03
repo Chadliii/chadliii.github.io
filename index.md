@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-classes: wide
 ---
 
 This is Xinyu Li, welcome to my website! 
